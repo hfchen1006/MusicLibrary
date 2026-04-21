@@ -3,6 +3,8 @@
 ## Overview
 This project is a music library application built in Java using object-oriented programming principles. It allows users to manage songs, albums, and playlists, with features such as ratings, favorite songs, search, and shuffle functionality.
 
+This project demonstrates object-oriented design, modular architecture, and real-world data management features in a structured Java application.
+
 This repository is included as part of my personal software portfolio.
 
 ---
@@ -43,7 +45,7 @@ My individual work on this project included:
 1. Open the project in Eclipse or another Java IDE
 2. Make sure the source files are under `src/proj1`
 3. Compile the Java files
-4. Run the appropriate main application class
+4. Run the main application class (e.g., `View.java` or a designated entry point if available)
 
 ---
 
